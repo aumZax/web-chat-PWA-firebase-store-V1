@@ -89,7 +89,7 @@ export default function ChatPage() {
                   <span className="font-semibold">{user?.email}</span>
                   <span className="text-xs text-gray-500">เมื่อสักครู่</span>
                 </div>
-                <p className="text-gray-700">Hello 👋</p>
+                <p className="text-gray-700">เค้ารักเธอนะ 🤣🤣🤣🤣🤣🤣</p>
               </div>
             </div>
           </div>

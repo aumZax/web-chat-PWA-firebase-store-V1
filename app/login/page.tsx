@@ -47,10 +47,10 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 to-slate-700">
+    <div className="min-h-screen flex items-center justify-center bg-pink-800 from-slate-900 to-slate-700">
       <div className="bg-white p-8 rounded-lg shadow-2xl w-full max-w-md">
         <h1 className="text-3xl font-bold text-center mb-6 text-slate-800">
-          เข้าสู่ระบบ
+          รักนะเธอ 😍😍😍😍
         </h1>
 
         <form onSubmit={handleLogin} className="space-y-4">
@@ -99,7 +99,7 @@ export default function LoginPage() {
 
         <div className="mt-6 text-center text-sm text-gray-600">
           <p>ทดสอบด้วย:</p>
-          <p className="font-mono text-xs mt-1">user@example.com / 123456</p>
+          <p className="font-mono text-xs mt-1">bji@gmail.com / 123</p>
         </div>
       </div>
     </div>
